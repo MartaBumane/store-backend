@@ -1,23 +1,6 @@
 # Store
 
-Create a node.js application which can serve contents of [store.csv](./store.csv) through the json api.
-
-API described below is not really something you would see in a real life, for sake of training there will be some illogical things.  
-
-## Setting Up
-
-You will need a new `npm` project, but make sure you include everything from this directory in your project.
-
-[Here](https://dev.to/asciidev/testing-a-nodeexpress-application-with-mocha--chai-4lho) is a great tutorial on how to create a simple express app.
-
-## Useful libraries
-
- - [`express`](https://www.npmjs.com/package/express)
- - [`csvtojson`](https://www.npmjs.com/package/csvtojson)
-
-## Submitting
-
-Submit your work in a new repository called `store-backend` in your github account, by creating pull request to your teacher. 
+node.js app -written using Typescript to learn Test Driven Development methodology and to learn more about backend
 
 ## API Documentation
 
